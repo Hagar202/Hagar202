@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%20Jul%2014,%202026,%2004_19_47%20PM.png" alt="Banner" width="100%">
+  <img src="bannar.png" alt="Banner" width="100%">
 </p>
 
 # Hi, I'm Hagar Soliman 👋
