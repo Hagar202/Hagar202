@@ -9,45 +9,63 @@ Artificial Intelligence Engineer specializing in Machine Learning, Deep Learning
 I build intelligent AI solutions across Computer Vision, Natural Language Processing, and Generative AI, transforming research concepts into practical real-world applications.
 
 
-## 🛠️ Technologies
+##  Technologies
 
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-...
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Computer Vision & AI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00599C?style=for-the-badge)
+
+### Backend & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 👁️ EyeSpeak — Gaze-Controlled Communication System
+###  EyeSpeak — Gaze-Controlled Communication System
 
 An AI-powered assistive communication system that enables users to interact with a computer using eye movements. The system combines real-time eye tracking, gaze estimation, calibration techniques, cursor control, and an intelligent virtual keyboard to support hands-free communication.
 
 **Technologies:**
 Python • Computer Vision • Machine Learning • OpenCV • Raspberry Pi • Android
 
-### 🚶 VisionWalk — AI-Based Pedestrian Detection System
+###  VisionWalk — AI-Based Pedestrian Detection System
 
 A computer vision solution designed for pedestrian detection and navigation assistance using advanced deep learning object detection models. The project focuses on improving environmental awareness through real-time visual analysis.
 
 **Technologies:**
 Python • YOLOv5 • Faster R-CNN • OpenCV • Deep Learning
 
-### 🧤 Smart Glove — Sign Language Translation System
+###  Smart Glove — Sign Language Translation System
 
 An IoT-based intelligent glove that translates hand gestures into text using sensor data and machine learning techniques. The system aims to improve communication accessibility for people with hearing and speech disabilities.
 
 **Technologies:**
 Python • Machine Learning • IoT • ESP32 • Sensor Data Processing
 
-### 💬 IMDB Sentiment Analysis
+###  IMDB Sentiment Analysis
 
 A Natural Language Processing project for classifying movie reviews based on sentiment using deep learning techniques. The project includes text preprocessing, tokenization, embedding generation, model training, and evaluation.
 
 **Technologies:**
 Python • TensorFlow • LSTM • GloVe • NLP
 
-### 🚗 Car Price Prediction
+###  Car Price Prediction
 
 A machine learning application that predicts used car prices based on different vehicle features. The project includes data preprocessing, model training, evaluation, and an interactive user interface.
 
@@ -56,14 +74,14 @@ Python • Scikit-learn • Pandas • Machine Learning • Streamlit
 
 
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Freelance AI Engineer | Upwork
 
 Delivered AI and Machine Learning solutions for international clients, including model development, data analysis, and AI application deployment.
 
 **Highlights:**
-- ⭐ Successfully completed AI projects with a **5.0-star client rating**.
+-  Successfully completed AI projects with a **5.0-star client rating**.
 - Built and improved **Sentiment Analysis** solutions using Python and Machine Learning.
 - Worked directly with clients to understand requirements and deliver production-ready solutions.
 - Applied NLP, data preprocessing, model training, evaluation, and documentation.
@@ -91,7 +109,7 @@ Helwan International Technological University
 - AI Training – Ministry of Youth
 - Database Fundamentals – Maharatak
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - **Email:** hagarsoliman745@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hagar-soliman-0a6b41264
