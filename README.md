@@ -8,25 +8,13 @@ Artificial Intelligence Engineer specializing in Machine Learning, Deep Learning
 
 I build intelligent AI solutions across Computer Vision, Natural Language Processing, and Generative AI, transforming research concepts into practical real-world applications.
 
-## Technologies
 
-  Python  
-  TensorFlow  
-  PyTorch  
-  Scikit-learn  
-  OpenCV  
-  Pandas  
-  NumPy  
-  FastAPI  
-  Flask  
-  Streamlit  
-  SQL  
-  Generative AI  
-  LLMs  
-  RAG  
-  Git
+## 🛠️ Technologies
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+...
 
 
 ## 🚀 Featured Projects
