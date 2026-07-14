@@ -93,7 +93,7 @@ Delivered AI and Machine Learning solutions for international clients, including
 - Worked directly with clients to understand requirements and deliver production-ready solutions.
 - Applied NLP, data preprocessing, model training, evaluation, and documentation.
 
-  ### Freelance Software Developer
+### Freelance Software Developer
 
 Worked on real-world software projects, including:
 
