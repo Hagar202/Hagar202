@@ -6,25 +6,25 @@
 
 Artificial Intelligence Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-I enjoy building AI applications that solve practical problems, from computer vision systems to predictive models and NLP applications. Most of my work is done with Python, and I like turning research ideas into usable software.
+I build intelligent AI solutions across Computer Vision, Natural Language Processing, and Generative AI, transforming research concepts into practical real-world applications.
 
 ## Technologies
 
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
-- FastAPI
-- Flask
-- SQL
-- Streamlit
-- Git
-- Generative AI
-- RAG
-- LLMs
-- Pandas
-- NumPy
+  Python  
+  TensorFlow  
+  PyTorch  
+  Scikit-learn  
+  OpenCV  
+  Pandas  
+  NumPy  
+  FastAPI  
+  Flask  
+  Streamlit  
+  SQL  
+  Generative AI  
+  LLMs  
+  RAG  
+  Git
 
 
 
