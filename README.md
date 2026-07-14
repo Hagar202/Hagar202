@@ -9,7 +9,7 @@ Artificial Intelligence Engineer specializing in Machine Learning, Deep Learning
 I build intelligent AI solutions across Computer Vision, Natural Language Processing, and Generative AI, transforming research concepts into practical real-world applications.
 
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
