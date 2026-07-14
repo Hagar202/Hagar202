@@ -37,12 +37,32 @@ A machine learning application for estimating used car prices with a Streamlit i
 ### Heart Disease Prediction
 Prediction model built with SVM and GridSearchCV.
 
+
+## 💼 Professional Experience
+
+### Freelance AI Engineer | Upwork
+
+Completed AI and Machine Learning projects for international clients.
+
+**Highlights:**
+- ⭐ Successfully completed AI projects with a **5.0-star client rating**.
+- Built and improved **Sentiment Analysis** solutions using Python and Machine Learning.
+- Worked directly with clients to understand requirements and deliver production-ready solutions.
+- Applied NLP, data preprocessing, model training, evaluation, and documentation.
 ## Certifications
 
 - IBM Machine Learning
 - Maharatak Deep Learning
 - AI Training – Ministry of Youth
 - Database Fundamentals – Maharatak
+
+  ### Freelance Software Developer
+
+Worked on real-world software projects, including:
+
+- Developed the **Al Amanah Capital** website from scratch using HTML, CSS, and JavaScript.
+- Customized **Perfex CRM** by implementing new features, fixing bugs, and modifying business workflows.
+- Customized PDF templates, payroll modules, and business processes.
 
 ## 📫 Connect with Me
 
