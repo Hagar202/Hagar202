@@ -1,122 +1,51 @@
-# 👋 Hello Devs! I'm Hagar 👩‍💻
+# Hi, I'm Hagar Soliman 👋
 
-🎓 **AI Student** @ Helwan International Technological University  
-💻 **Junior Machine Learning Developer** | Python | NLP | CV | Deployment  
+Artificial Intelligence Engineer focused on Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
----
+I enjoy building AI applications that solve practical problems, from computer vision systems to predictive models and NLP applications. Most of my work is done with Python, and I like turning research ideas into usable software.
 
-### 🧠 About Me
+## Technologies
 
-I'm passionate about building real-world intelligent systems using AI technologies.  
-I’ve worked on various machine learning applications in:
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-learn
+- FastAPI
+- Flask
+- SQL
+- Streamlit
+- Git
 
-- 🤖 Supervised & Deep Learning  
-- 💬 Natural Language Processing (NLP)  
-- 👁️ Computer Vision (Object Detection, Tracking)  
-- 📊 Data Analysis & Preprocessing  
-- 💾 Databases & SQL  
-- 🚀 Model Deployment using Streamlit & Flask  
+## Projects
 
----
+### EyeSpeak
+A gaze-controlled communication system that enables users to interact with a computer using only their eyes. The project includes eye tracking, calibration, cursor control, and a virtual keyboard.
 
-### 🛠️ I Code With:
+### VisionWalk
+A computer vision project for pedestrian detection using YOLOv5 and Faster R-CNN, developed to improve navigation assistance.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Databases](https://img.shields.io/badge/-Databases-4DB33D?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### Smart Glove
+An IoT-based glove that translates sign language gestures into text using flex sensors and machine learning.
 
----
+### IMDB Sentiment Analysis
+Sentiment classification using LSTM and GloVe embeddings.
 
-### 🏆 Certifications
+### Car Price Prediction
+A machine learning application for estimating used car prices with a Streamlit interface.
 
-- 🧠 **Deep Learning Certificate** – Maharatak  
-- 🤖 **AI Training** – Ministry of Youth & Shabab Mobtakeron  
-- 🎓 **Machine Learning Certificate** – IBM  
-- 💾 **Database Fundamentals Certificate** – Maharatak  
+### Heart Disease Prediction
+Prediction model built with SVM and GridSearchCV.
 
----
+## Certifications
 
-### 🚀 Projects I’ve Built
+- IBM Machine Learning
+- Maharatak Deep Learning
+- AI Training – Ministry of Youth
+- Database Fundamentals – Maharatak
 
-- 🧤 **Smart Glove for Sign Language**  
-  Converts hand gestures into text using sensors & Python, integrated with a mobile interface.
+## 📫 Connect with Me
 
-- 🚶‍♂️ **Pedestrian Detection with OpenCV**  
-  Real-time object detection with bounding boxes for safety systems.
-
-- 🏎️ **Car Price Prediction App**  
-  Trained Random Forest model with a Streamlit interface.
-
-- 💬 **IMDB Sentiment Analysis**  
-  Built with LSTM & GloVe embeddings for movie review classification.
-
-- 🫀 **Heart Disease Prediction**  
-  Used SVM + GridSearchCV for predicting patient risk based on medical data.
-
----
-
-### 🤖 Machine Learning Algorithms I Know
-
-#### 🔵 Supervised Learning
-
-**Classification:**
-- Logistic Regression  
-- K-Nearest Neighbors (KNN)  
-- Support Vector Machines (SVM)  
-- Decision Trees  
-- Random Forest  
-- Naive Bayes  
-- Gradient Boosting (XGBoost, LightGBM)  
-- Neural Networks (MLP, CNN, RNN)  
-
-**Regression:**
-- Linear Regression  
-- Ridge & Lasso  
-- Decision Tree Regressor  
-- Random Forest Regressor  
-- Support Vector Regression (SVR)  
-- XGBoost Regressor  
-- Neural Networks for Regression  
-
----
-
-#### 🟣 Unsupervised Learning
-
-**Clustering:**
-- K-Means  
-- DBSCAN  
-- Agglomerative Clustering  
-- Hierarchical Clustering  
-- Mean Shift  
-
-**Dimensionality Reduction:**
-- PCA (Principal Component Analysis)  
-- t-SNE  
-- UMAP  
-
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: hagarsoliman745@gmail.com  
-- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~01628ce158fc255d37)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hagar-soliman-0a6b41264)
-
----
-
-### 🔍 Fun Fact
-
-> I love automating tasks and turning ideas into real working AI tools 🤖
-
----
-
-_Thanks for stopping by my profile! Let's build something amazing together 💡_
+- **Email:** hagarsoliman745@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/hagar-soliman-0a6b41264
+- **Upwork:** https://www.upwork.com/freelancers/~01628ce158fc255d37
