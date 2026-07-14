@@ -4,7 +4,7 @@
 
 # Hi, I'm Hagar Soliman 👋
 
-Artificial Intelligence Engineer focused on Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+Artificial Intelligence Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 I enjoy building AI applications that solve practical problems, from computer vision systems to predictive models and NLP applications. Most of my work is done with Python, and I like turning research ideas into usable software.
 
@@ -20,6 +20,12 @@ I enjoy building AI applications that solve practical problems, from computer vi
 - SQL
 - Streamlit
 - Git
+- Generative AI
+- RAG
+- LLMs
+- Pandas
+- NumPy
+
 
 
 
@@ -66,7 +72,7 @@ Python • Scikit-learn • Pandas • Machine Learning • Streamlit
 
 ### Freelance AI Engineer | Upwork
 
-Completed AI and Machine Learning projects for international clients.
+Delivered AI and Machine Learning solutions for international clients, including model development, data analysis, and AI application deployment.
 
 **Highlights:**
 - ⭐ Successfully completed AI projects with a **5.0-star client rating**.
