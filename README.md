@@ -88,6 +88,14 @@ Worked on real-world software projects, including:
 - Customized **Perfex CRM** by implementing new features, fixing bugs, and modifying business workflows.
 - Customized PDF templates, payroll modules, and business processes.
 
+
+##  Education
+
+Bachelor of Artificial Intelligence  
+Helwan International Technological University  
+2023 - 2026
+
+
 ## Certifications
 
 - IBM Machine Learning
