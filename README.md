@@ -21,25 +21,45 @@ I enjoy building AI applications that solve practical problems, from computer vi
 - Streamlit
 - Git
 
-## Projects
 
-### EyeSpeak
-A gaze-controlled communication system that enables users to interact with a computer using only their eyes. The project includes eye tracking, calibration, cursor control, and a virtual keyboard.
 
-### VisionWalk
-A computer vision project for pedestrian detection using YOLOv5 and Faster R-CNN, developed to improve navigation assistance.
+## 🚀 Featured Projects
 
-### Smart Glove
-An IoT-based glove that translates sign language gestures into text using flex sensors and machine learning.
+### 👁️ EyeSpeak — Gaze-Controlled Communication System
 
-### IMDB Sentiment Analysis
-Sentiment classification using LSTM and GloVe embeddings.
+An AI-powered assistive communication system that enables users to interact with a computer using eye movements. The system combines real-time eye tracking, gaze estimation, calibration techniques, cursor control, and an intelligent virtual keyboard to support hands-free communication.
 
-### Car Price Prediction
-A machine learning application for estimating used car prices with a Streamlit interface.
+**Technologies:**
+Python • Computer Vision • Machine Learning • OpenCV • Raspberry Pi • Android
 
-### Heart Disease Prediction
-Prediction model built with SVM and GridSearchCV.
+### 🚶 VisionWalk — AI-Based Pedestrian Detection System
+
+A computer vision solution designed for pedestrian detection and navigation assistance using advanced deep learning object detection models. The project focuses on improving environmental awareness through real-time visual analysis.
+
+**Technologies:**
+Python • YOLOv5 • Faster R-CNN • OpenCV • Deep Learning
+
+### 🧤 Smart Glove — Sign Language Translation System
+
+An IoT-based intelligent glove that translates hand gestures into text using sensor data and machine learning techniques. The system aims to improve communication accessibility for people with hearing and speech disabilities.
+
+**Technologies:**
+Python • Machine Learning • IoT • ESP32 • Sensor Data Processing
+
+### 💬 IMDB Sentiment Analysis
+
+A Natural Language Processing project for classifying movie reviews based on sentiment using deep learning techniques. The project includes text preprocessing, tokenization, embedding generation, model training, and evaluation.
+
+**Technologies:**
+Python • TensorFlow • LSTM • GloVe • NLP
+
+### 🚗 Car Price Prediction
+
+A machine learning application that predicts used car prices based on different vehicle features. The project includes data preprocessing, model training, evaluation, and an interactive user interface.
+
+**Technologies:**
+Python • Scikit-learn • Pandas • Machine Learning • Streamlit
+
 
 
 ## 💼 Professional Experience
