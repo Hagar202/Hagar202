@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://hagar202.github.io/portfolio/"><img src="https://img.shields.io/badge/My%20Portfolio-6A2C8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"></a>
   <a href="https://hagar202.github.io/portfolio/Hagar-Soliman-CV.pdf"><img src="https://img.shields.io/badge/My%20CV-B8862B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"></a>
-  <a href="https://linkedin.com/in/hagar-soliman-0a6b41264"><img src="https://img.shields.io/badge/LinkedIn-24122F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hagar-soliman-ai"><img src="https://img.shields.io/badge/LinkedIn-24122F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.upwork.com/freelancers/~01628ce158fc255d37"><img src="https://img.shields.io/badge/Upwork-24122F?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="mailto:hagarsoliman745@gmail.com"><img src="https://img.shields.io/badge/Email-24122F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
